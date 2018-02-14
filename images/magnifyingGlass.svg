@@ -1,0 +1,21 @@
+<svg id="magnifyingGlass" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 387.38 387.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>magnifyingGlass</title>
+  <g id="mainGlass">
+    <circle class="cls-1" cx="193.69" cy="193.69" r="189.69"/>
+    <circle class="cls-1" cx="193.69" cy="193.69" r="189.69"/>
+    <circle class="cls-1" cx="131.07" cy="136.56" r="60.92"/>
+    <path class="cls-1" d="M514.83,456.75a17.54,17.54,0,0,1-.11,24.73h0a17.54,17.54,0,0,1-24.73.11L379.82,371.42c-7.45-7.45,5.82-5.82,12.62-12.62h0c6.79-6.79,4.77-19.67,12.22-12.22Z" transform="translate(-214.97 -175.84)"/>
+    <path class="cls-1" d="M404.66,396.26l-24.84-24.84c-7.45-7.45,5.82-5.82,12.62-12.62h0c6.79-6.79,4.77-19.67,12.22-12.22l24.84,24.84Z" transform="translate(-214.97 -175.84)"/>
+  </g>
+  <path id="detail" class="cls-1" d="M318.77,339.67a38.57,38.57,0,0,1,0-54.53" transform="translate(-214.97 -175.84)"/>
+</svg>
