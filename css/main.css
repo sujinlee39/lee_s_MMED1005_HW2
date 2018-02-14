@@ -1,1 +1,11 @@
-@@charset "UTF-8";
+@charset "UTF-8";
+
+.container {
+  width: 48%;
+  display: inline-block;
+}
+
+.container img {
+  display: block;
+  width: 100%;
+}
