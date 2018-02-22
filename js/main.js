@@ -8,4 +8,3 @@
   }
 
   svgs.forEach(svg => svg.addEventListener('click', logThisSVG));
-})();
