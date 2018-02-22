@@ -1,11 +1,28 @@
 @charset "UTF-8";
 
-.container {
-  width: 48%;
+.container
+{
+  width: 60%;
   display: inline-block;
 }
 
-.container img {
+.container img
+{
   display: block;
   width: 100%;
+}
+
+ul li
+{
+    list-style: none;
+}
+
+.hover:hover
+{
+  transform: scale(2);
+}
+
+.hidden
+{
+  display: none;
 }
